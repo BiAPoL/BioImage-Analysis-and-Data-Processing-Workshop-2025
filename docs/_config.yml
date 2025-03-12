@@ -1,0 +1,41 @@
+# In _config.yml
+title: Trends in Microscopy 2025
+author: Marcelo Zoccoler, Johannes Soltwedel
+logo: biapol_logo.png
+execute:
+  execute_notebooks: off
+
+# Add a bibtex file so that we can create citations
+bibtex_bibfiles:
+  - references.bib
+
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/BiAPoL/TrendsInMicroscopy2025 # Online location of the book
+  path_to_book: docs
+  branch: main # branch used when creating links (optional)
+
+# Add GitHub buttons to the book
+# See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
+html:
+  use_issues_button: true
+  use_repository_button: true
+  extra_footer: |
+    <p>
+    Copyright: This work can be reused under the terms of the <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY 4.0</a> license unless mentioned otherwise.
+    </p>
+
+sphinx:
+  config:
+    html_show_copyright: false
+    html_theme_options:
+      navigation_with_keys: true
+  extra_extensions:
+  - 'sphinx.ext.autodoc'
+  - 'sphinx.ext.napoleon'
+  - 'sphinx.ext.viewcode'
+  - 'sphinx.ext.autosummary'
+  config:
+    add_module_names: True
+#    autosummary_generate: True
+    bibtex_reference_style: author_year

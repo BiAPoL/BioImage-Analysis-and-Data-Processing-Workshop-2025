@@ -1,0 +1,15 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+
+options:
+  numbered: False
+
+chapters:
+- file: 01_images_are_numpy_arrays
+- file: multichannel_analysis/readme
+- file: interactive_pixel_classification/readme
+- file: interactive_object_classification/readme
+- file: interactive_unsupervised_object_classification/readme
