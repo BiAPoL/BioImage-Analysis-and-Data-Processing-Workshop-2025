@@ -2,7 +2,7 @@
 
 Course contents for BiAPoL "Interactive Open-source Image Analysis and Scientific Plotting" Workshop at Trends in Microscopy conference 2025.
 
-The Jupyter book of the course can be viewed under this URL: https://biapol.github.io/TrendsInMicroscopy2025/
+The Jupyter book of the course can be viewed under this URL: https://biapol.github.io/TrendsInMicroscopy_2025/
 
 This work is licensed by the Bio-Image Analysis Technology Development group (BiAPoL), Cluster of Excellence Physics of Life (PoL), Dresden, under a Creative Commons Attribution 4.0 International License.
 
