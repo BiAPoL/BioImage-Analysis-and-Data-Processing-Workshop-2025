@@ -13,3 +13,4 @@ chapters:
 - file: interactive_pixel_classification/readme
 - file: interactive_object_classification/readme
 - file: interactive_unsupervised_object_classification/readme
+- file: seaborn/seaborn_demo
