@@ -10,4 +10,4 @@ It is maintained using [Jupyter lab](https://jupyter.org/) and build using [Jupy
 
 # Acknowledgements
 
-We would like to acknowledge all contributors who spend time in the past years to make slides and notebooks we are reusing there, in particular Robert Haase (Scads.AI Leipzig) and Till Körten (Helmholtz AI). This project was supported by the Deutsche Forschungsgemeinschaft under Germany’s Excellence Strategy – EXC2068 - Cluster of Excellence “Physics of Life” of TU Dresden.
+We would like to acknowledge all contributors who spend time in the past years to make slides and notebooks we are reusing there, in particular Robert Haase (Scads.AI Leipzig) and Till Korten (Helmholtz AI). This project was supported by the Deutsche Forschungsgemeinschaft under Germany’s Excellence Strategy – EXC2068 - Cluster of Excellence “Physics of Life” of TU Dresden.
