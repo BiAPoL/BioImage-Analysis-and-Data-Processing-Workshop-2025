@@ -1,6 +1,6 @@
 # In _config.yml
-title: Trends in Microscopy 2025
-author: Marcelo Zoccoler, Johannes Soltwedel
+title: QM Course Bio-Image Analysis with napari
+author: Marcelo Leomil Zoccoler
 logo: biapol_logo.png
 execute:
   execute_notebooks: off
@@ -11,7 +11,7 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/BiAPoL/TrendsInMicroscopy2025 # Online location of the book
+  url: https://github.com/BiAPoL/QM_Course_Bio_Image_Analysis_with_napari_2025 # Online location of the book
   path_to_book: docs
   branch: main # branch used when creating links (optional)
 

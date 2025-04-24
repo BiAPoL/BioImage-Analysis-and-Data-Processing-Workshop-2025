@@ -8,8 +8,13 @@ We will use the napari plugin [napari-clusters-plotter plugin](https://github.co
 Open a terminal window and activate your conda environment:
 
 ```
-mamba activate tim25
+mamba activate napari-intro-env
 ```
+or
+```
+mamba activate devbio-napari
+```
+depending which environment you are using.
 
 Afterwards, start up Napari:
 

@@ -7,8 +7,13 @@ In this exercise we will perfom [Feature Extraction](https://focalplane.biologis
 Open a terminal window and activate your conda environment:
 
 ```
-mamba activate my_first_env
+mamba activate napari-intro-env
 ```
+or
+```
+mamba activate devbio-napari
+```
+depending which environment you are using.
 
 Afterwards, start up Napari:
 
