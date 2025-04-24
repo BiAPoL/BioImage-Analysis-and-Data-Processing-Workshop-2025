@@ -1,6 +1,6 @@
-# Trends in Microscopy 2025
+# QM Course - Lectures on Bio-Image Analysis with napari Plugins
 
-This page contains the resources for the BiAPoL course at the [Trends in Microscopy conference (TIM) 2025](https://gerbi-gmb.de/event/tim2025/).
+In these lectures, we will visualize microscopy images with [napari](https://napari.org/stable/), an nD viewer open-source software, and explore ways to analyze them with a few napari plugins.
 
 ## Course Description
 
@@ -12,7 +12,6 @@ This course will introduce the participants to the basics of bio-image analysis 
 - Feature Extraction with [napari-skimage-regionprops](https://github.com/haesleinhuepf/napari-skimage-regionprops)
 - Multichannel Analysis with [napari-skimage-regionprops](https://github.com/haesleinhuepf/napari-skimage-regionprops)
 - Object Classification with Machine Learning using [napari-apoc](https://github.com/haesleinhuepf/napari-accelerated-pixel-and-object-classification) and [napari-clusters-plotter](https://github.com/BiAPoL/napari-clusters-plotter)
-- Scientific Plotting with [seaborn](https://seaborn.pydata.org/)
 
 ## Setting up the environment
 
@@ -23,7 +22,7 @@ To follow the course, you will need to have Python installed in your computer.
 2. Open a terminal (preferably Miniforge Prompt, but not necessarily) and run the following command to clone/download the course repository to your computer:
 
 ```bash
-git clone https://github.com/BiAPoL/TrendsInMicroscopy_2025.git
+git clone https://github.com/BiAPoL/QM_Course_Bio_Image_Analysis_with_napari_2025.git
 ```
 
 Alternatively, you can download the repository as a `.zip` file by clicking on the green "Code" button on the top right of the repository page and selecting "Download ZIP". Remember the place where you decompress the file for the next steps.
@@ -31,7 +30,7 @@ Alternatively, you can download the repository as a `.zip` file by clicking on t
 3. Navigate to the course repository:
 
 ```bash
-cd TrendsInMicroscopy_2025
+cd QM_Course_Bio_Image_Analysis_with_napari_2025
 ```
 
 If you chose to download the `.zip` file in the previous step, you will need to navigate to the folder where you decompressed the file.
@@ -42,17 +41,17 @@ If you chose to download the `.zip` file in the previous step, you will need to 
 mamba env create -f environment.yml
 ```
 
-This creates a new environment called `tim25` and installs all the required packages.
+This creates a new environment called `napari-intro-env` and installs all the required packages.
 
 5. Activate the environment:
 
 ```bash
-mamba activate tim25
+mamba activate napari-intro-env
 ```
 
 This will activate the environment, which means giving access to the path where the installed packages are.
 
-You should see the name `(tim25)` now in front of the active typing line.
+You should see the name `(napari-intro-env)` now in front of the active typing line.
 
 ## Starting napari
 
@@ -64,12 +63,3 @@ napari
 
 in the terminal. The first time you start napari may take longer than usual.
 
-## Starting Jupyter Lab
-
-If you want to program jupyter notebooks, you can use [Jupyter Lab](https://jupyter.org/) as your platform to do so. We will use this in the last part of this course for scientific plotting. To start it, type:
-
-```bash
-jupyter lab
-```
-
-This should open a new tab in your default browser with the Jupyter Lab interface.
