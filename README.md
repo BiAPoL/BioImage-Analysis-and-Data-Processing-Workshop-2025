@@ -5,9 +5,9 @@ This lecture was given by Marcelo Leomil Zoccoler (PoL Dresden) at VMCF, Charles
 This repository hosts the lectures' jupyter notebooks and slides.
 
 This work is licensed by Marcelo Leomil Zoccoler, PoL Dresden, under a Creative Commons Attribution 4.0 International License.
-It contains derived materials from previous work from Robert Haase (ScaDS AI Leipzig), Johannes Soltwedel (PoL Dresden), Till Körten (Helmholtz AI Dresden) and Guillaume Witz (Universität Bern).
+It contains derived materials from previous work from Robert Haase (ScaDS AI Leipzig), Johannes Soltwedel (PoL Dresden), Maleeha Hassan (Helmholtz AI Dresden), Till Körten (Helmholtz AI Dresden) and Guillaume Witz (Universität Bern).
 
-The Jupyter book of the course can be viewed under this URL: https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_2024/intro.html
+The Jupyter book of the course can be viewed under this URL: https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_2025/intro.html
 
 It is maintained using [Jupyter lab](https://jupyter.org/) and build using [Jupyter book](https://jupyterbook.org/en/stable/intro.html).
 
