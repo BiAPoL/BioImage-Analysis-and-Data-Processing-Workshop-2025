@@ -8,7 +8,7 @@ This course will introduce the participants to the basics of bio-image analysis 
 
 - Installation and introduction to [napari](https://napari.org/stable/)
 - Loading images from OMERO with [napari-omero](https://github.com/tlambert03/napari-omero)
-- Segmentation with Machine Learning using [napari-apoc](https://github.com/haesleinhuepf/napari-accelerated-pixel-and-object-classification), [napari-convpaint](https://github.com/guiwitz/napari-convpaint) and [napari-nninteractive](https://github.com/MIC-DKFZ/napari-nninteractive)
+- Segmentation with Machine Learning using [napari-apoc](https://github.com/haesleinhuepf/napari-accelerated-pixel-and-object-classification), [micro-sam](https://github.com/computational-cell-analytics/micro-sam and [napari-nninteractive](https://github.com/MIC-DKFZ/napari-nninteractive)
 - Feature Extraction with [napari-skimage-regionprops](https://github.com/haesleinhuepf/napari-skimage-regionprops)
 - Multichannel Analysis with [napari-skimage-regionprops](https://github.com/haesleinhuepf/napari-skimage-regionprops)
 - Object Classification with Machine Learning using [napari-apoc](https://github.com/haesleinhuepf/napari-accelerated-pixel-and-object-classification) and [napari-clusters-plotter](https://github.com/BiAPoL/napari-clusters-plotter)
