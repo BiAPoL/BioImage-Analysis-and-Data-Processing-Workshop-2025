@@ -13,6 +13,8 @@ This course will introduce the participants to the basics of bio-image analysis 
 - Multichannel Analysis with [napari-skimage-regionprops](https://github.com/haesleinhuepf/napari-skimage-regionprops)
 - Object Classification with Machine Learning using [napari-apoc](https://github.com/haesleinhuepf/napari-accelerated-pixel-and-object-classification) and [napari-clusters-plotter](https://github.com/BiAPoL/napari-clusters-plotter)
 
+The slides can be downloaded from the [GitHub repository](https://github.com/BiAPoL/QM_Course_Bio_Image_Analysis_with_napari_2025/blob/main/Bio-Image%20Analysis%20with%20napari%20plugins.pdf)
+
 ## Setting up the environment
 
 To follow the course, you will need to have Python installed in your computer. 
