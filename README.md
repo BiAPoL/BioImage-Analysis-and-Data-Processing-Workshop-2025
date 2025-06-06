@@ -1,4 +1,4 @@
-# QM Course Lectures on Bio-Image Analysis with napari 2025
+# BioImage Analysis and Data Processing Workshop 2025 - Bio-Image Analysis with napari Plugins
 
 This repository hosts the workshop' jupyter notebooks and markdown files for the BioImage Analysis and Data Processing Workshop 2025, which takes place in VMCF Microscopy Facility, Vinicna 7, Prague, Czechia
 
