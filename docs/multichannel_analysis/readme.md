@@ -7,13 +7,8 @@ In this exercise we will perfom [Feature Extraction](https://focalplane.biologis
 Open a terminal window and activate your conda environment:
 
 ```
-mamba activate napari-intro-env
+mamba activate napari25
 ```
-or
-```
-mamba activate devbio-napari
-```
-depending which environment you are using.
 
 Afterwards, start up Napari:
 
@@ -21,7 +16,7 @@ Afterwards, start up Napari:
 napari
 ```
 
-Open the following images in napari, which can be found in the `data/multichannel` folder of this repository ([here](https://github.com/BiAPoL/DIGS-BB_LM_Course_Bio-Image_Analysis_2024/tree/main/data/multichannel)):
+Open the following images in napari, which can be found in the `data/multichannel` folder of this repository ([here](https://github.com/BiAPoL/BioImage-Analysis-and-Data-Processing-Workshop-2025/tree/main/data/multichannel)):
 - actin.tif (cells)
 - dna.tif
 - cell_labels.tif
