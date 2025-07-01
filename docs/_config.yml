@@ -1,5 +1,5 @@
 # In _config.yml
-title: QM Course Bio-Image Analysis with napari Plugins
+title: BioImage Analysis and Data Processing Workshop 2025
 author: Marcelo Leomil Zoccoler
 logo: biapol_logo.png
 execute:
@@ -11,7 +11,7 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/BiAPoL/QM_Course_Bio_Image_Analysis_with_napari_2025 # Online location of the book
+  url: https://github.com/BiAPoL/BioImage-Analysis-and-Data-Processing-Workshop-2025 # Online location of the book
   path_to_book: docs
   branch: main # branch used when creating links (optional)
 
