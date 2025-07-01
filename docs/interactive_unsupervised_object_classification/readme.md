@@ -17,7 +17,7 @@ Afterwards, start up Napari:
 napari
 ```
 
-Load the "BBBC007 v1" example dataset from the menu `File > Open Sample > napari clusters plotter > BBBC007 v1`. 
+Load the "BBBC007 v1" example dataset from the menu `File > Open Sample > napari clusters plotter > BBBC007 v1 dataset`. 
 
 ![](ncp1.png)
 
