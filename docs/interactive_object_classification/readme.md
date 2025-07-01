@@ -8,13 +8,8 @@ We will use the napari plugin [napari-accelerated-pixel-and-object-classificatio
 Open a terminal window and activate your conda environment:
 
 ```
-mamba activate napari-intro-env
+mamba activate napari25
 ```
-**or**
-```
-mamba activate devbio-napari
-```
-depending which environment you are using.
 
 Afterwards, start up Napari:
 
@@ -22,10 +17,10 @@ Afterwards, start up Napari:
 napari
 ```
 
-Load the "Blobs" example dataset from the menu `File > Open Sample > clEsperanto > Blobs (from ImageJ)`
+Load the "Blobs" example dataset from data folder of this repository. You can find it [here](https://github.com/BiAPoL/BioImage-Analysis-and-Data-Processing-Workshop-2025/blob/main/data/blobs.tif). Drag and drop the file into the napari window.
 
 We furthermore need a label image. You can create it using the [pixel classifier trained earlier](machine_learning:pixel_classification) 
-or using the menu `Tools > Segmentation / labeling > Gauss-Otsu Labeling (clesperanto)`.
+or using the menu `Tools > Segmentation / labeling > Gauss-Otsu Labeling (nsbatwm)`.
 
 ## Object classification
 

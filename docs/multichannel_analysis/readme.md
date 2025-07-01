@@ -7,13 +7,8 @@ In this exercise we will perfom [Feature Extraction](https://focalplane.biologis
 Open a terminal window and activate your conda environment:
 
 ```
-mamba activate napari-intro-env
+mamba activate napari25
 ```
-or
-```
-mamba activate devbio-napari
-```
-depending which environment you are using.
 
 Afterwards, start up Napari:
 
@@ -21,7 +16,7 @@ Afterwards, start up Napari:
 napari
 ```
 
-Open the following images in napari, which can be found in the `data/multichannel` folder of this repository ([here](https://github.com/BiAPoL/DIGS-BB_LM_Course_Bio-Image_Analysis_2024/tree/main/data/multichannel)):
+Open the following images in napari, which can be found in the `data/multichannel` folder of this repository ([here](https://github.com/BiAPoL/BioImage-Analysis-and-Data-Processing-Workshop-2025/tree/main/data/multichannel)):
 - actin.tif (cells)
 - dna.tif
 - cell_labels.tif
@@ -35,7 +30,11 @@ We will start by extracting features of the `dna_labels` objects in respect to t
  
 ![](screenshot4.png)
 
-The feature extraction widget should open. Check the `relate to other channel(s)` checkbox and a new dropdown menu should appear. Select `dna_labels` in the new dropdown menu.
+The feature extraction widget should open.
+
+In case of single channel analysis, the `Reference Labels Layer` should be set to the labels layer of the objects you want to extract features from. We would click on `Run` and we would be done!
+
+ For multichannel analysis, check the `relate to other channel(s)` checkbox and a new dropdown menu should appear. Select `dna_labels` in the new dropdown menu.
 
 ![](screenshot7.png)
 
