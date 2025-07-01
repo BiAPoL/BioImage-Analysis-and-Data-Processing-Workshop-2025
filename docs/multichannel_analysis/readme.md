@@ -30,7 +30,11 @@ We will start by extracting features of the `dna_labels` objects in respect to t
  
 ![](screenshot4.png)
 
-The feature extraction widget should open. Check the `relate to other channel(s)` checkbox and a new dropdown menu should appear. Select `dna_labels` in the new dropdown menu.
+The feature extraction widget should open.
+
+In case of single channel analysis, the `Reference Labels Layer` should be set to the labels layer of the objects you want to extract features from. We would click on `Run` and we would be done!
+
+ For multichannel analysis, check the `relate to other channel(s)` checkbox and a new dropdown menu should appear. Select `dna_labels` in the new dropdown menu.
 
 ![](screenshot7.png)
 
