@@ -14,7 +14,7 @@ This course will introduce the participants to the basics of bio-image analysis 
 - Object Classification with Machine Learning using [napari-apoc](https://github.com/haesleinhuepf/napari-accelerated-pixel-and-object-classification) and [napari-clusters-plotter](https://github.com/BiAPoL/napari-clusters-plotter)
 - Scientific Plotting with [seaborn](https://seaborn.pydata.org/)
 
-The slides can be downloaded from the [GitHub repository] **TODO: Add Link to Slides**
+The slides can be downloaded from the [here](./Bio-Image%20Analysis%20with%20napari%20plugins.pdf)
 
 ## Setting up the environment
 
