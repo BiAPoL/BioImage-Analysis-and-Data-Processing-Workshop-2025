@@ -34,6 +34,16 @@ Start the object segmentation from the `Tools > Segmentation / Labeling > Object
 
 ![](apoc2.png)
 
+***Note:** If you do not see the `Object Segmentation (APOC)` menu, or get an error message, especially if you are using a Mac or a Linux system, you may need to install one of these additional packages as mentioned in the [napari-apoc installation instructions](https://github.com/haesleinhuepf/napari-accelerated-pixel-and-object-classification?tab=readme-ov-file#installation) (don't forget to activate your conda environment first):*
+
+> Mac-users please also install this:
+
+    conda install -c conda-forge ocl_icd_wrapper_apple
+
+>Linux users please also install this:
+
+    conda install -c conda-forge ocl-icd-system
+
 Add a new labels layer by clicking on this button:
 ![](apoc3.png)
 
